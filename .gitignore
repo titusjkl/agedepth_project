@@ -1,8 +1,6 @@
 *.pptx
 *.png
 *.docx
-"Vorlesung 03.pdf"
-"Aufgabenstellung Geostatistik II.pdf"
-/Paper
-/Plots
-/Other
+Paper/*
+Plots/*
+Other/*
