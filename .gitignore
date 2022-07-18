@@ -1,6 +1,7 @@
 *.pptx
 *.png
 *.docx
+
 paper/*
 plots/*
 other/*
